@@ -1,0 +1,9 @@
+{
+    "AWS": {
+        "RDS_HOSTNAME": "carpoolfood.cncu5srck79p.us-east-2.rds.amazonaws.com",
+        "RDS_PORT": 1433,
+        "RDS_DB_NAME": "CarpoolFood01",
+        "RDS_USERNAME": "sa",
+        "RDS_PASSWORD": "ze19860318"
+    }
+}
